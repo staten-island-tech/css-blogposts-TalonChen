@@ -1,0 +1,12 @@
+body,
+html
+
+h1{
+    color: aliceblue;
+    font-size: medium;
+    text-align: center;
+    width: 800px;
+    margin: 50px auto;
+    font-family: sans-serif;
+    background-color: black;
+}
