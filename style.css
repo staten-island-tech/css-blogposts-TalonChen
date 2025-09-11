@@ -1,6 +1,11 @@
 .wallpaper{
     background-image: url(images/blackbackground.jpg);
 }
+
+.sunset{
+    background-image: url(images/sunset.jpg);
+}
+
 span{
     color: black;
 }
@@ -21,10 +26,9 @@ span{
 .post1{
     border: 5px solid red;
     height: 500px;
-    width: 500px;
+    width: 100%;
     position: relative;
     margin-top: 25px;
-    left: 34%;
 }
 
 .ocean{
@@ -45,18 +49,16 @@ span{
 .post2{
     border: 5px solid red;
     height: 500px;
-    width: 500px;
+    width: 100%;
     position: relative;
     margin-top: 25px;
-    left: 34%
 }
 
 
 .post3{
     border: 5px solid red;
     height: 500px;
-    width: 500px;
+    width: 100%;
     position: relative;
     margin-top: 25px;
-    left: 34%
 }
