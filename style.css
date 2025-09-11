@@ -11,9 +11,19 @@ span{
 }
 
 #buffet{
+    font-family: "Comic Relief", system-ui;
+    font-weight: 700;
+    font-style: normal;
     border: 5px solid blue;
+    color: bisque;
 }
 
+.food{
+    background-image: url(images/food.jpg);
+}
+.cruise{
+    background-image: url(images/cruise.jpg);
+}
 
 
 .title{
@@ -24,22 +34,23 @@ span{
 }
 
 .post1{
-    border: 5px solid red;
-    height: 500px;
-    width: 100%;
+    border: 5px solid lime;
+    height: 960px;
+    width: 640px;
     position: relative;
-    margin-top: 25px;
+    margin-left: 590px;
+    margin-top: 30px;
 }
 
 .ocean{
     font-family: "Comic Relief", system-ui;
     font-weight: 400;
     font-style: normal;
-    text-align: left;
+    text-align: center;
     margin-right: 1200px;
-    color: azure;
+    color: violet;
     padding: 75px;
-    border: 5px solid red;
+    border: 5px solid aquamarine;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -47,18 +58,20 @@ span{
 }
 
 .post2{
-    border: 5px solid red;
-    height: 500px;
-    width: 100%;
+    border: 5px solid seagreen;
+    height: 853px;
+    width: 640px;
     position: relative;
-    margin-top: 25px;
+    margin-left: 590px;
+    margin-top: 30px;
 }
 
 
 .post3{
-    border: 5px solid red;
-    height: 500px;
-    width: 100%;
+    border: 5px solid palevioletred;
+    height: 426px;
+    width: 640px;
     position: relative;
-    margin-top: 25px;
+    margin-left: 590px;
+    margin-top: 30px;
 }
