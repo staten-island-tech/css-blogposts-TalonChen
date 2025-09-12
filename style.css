@@ -7,6 +7,9 @@
 }
 
 span {
+  font-family: "Comic Relief", system-ui;
+  font-weight: 700;
+  font-style: normal;
   color: black;
 }
 
@@ -14,8 +17,9 @@ span {
   font-family: "Comic Relief", system-ui;
   font-weight: 700;
   font-style: normal;
-  border: 5px solid blue;
-  color: bisque;
+  border: 5px solid #00bcd4;
+  color: #ffa000;
+  
 }
 
 .food {
@@ -47,7 +51,7 @@ span {
   font-style: normal;
   text-align: center;
   margin-right: 1200px;
-  color: blue;
+
   padding: 100px;
   border: 5px solid aquamarine;
   position: absolute;
